@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292880102247",
+    "project_id": "login-register-uts-cc997",
+    "storage_bucket": "login-register-uts-cc997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292880102247:android:cbf27a4791222cdb1375c2",
+        "android_client_info": {
+          "package_name": "com.example.a121140014_pam_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88q7hPb5sEVgOcJRmFiEAsr-0Nrg69Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
